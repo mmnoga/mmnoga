@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring Junior Java Developer passionate about building efficient and scalable applications. With a strong foundation in Java, web technologies, and backend systems, I am eager to grow my skills and contribute to exciting projects. I am actively seeking opportunities to work in a dynamic environment where I can develop my expertise and deliver impactful solutions.
+I am a Java Developer passionate about building efficient and scalable applications. With a strong foundation in Java, web technologies, and backend systems, I am eager to grow my skills and contribute to exciting projects. I am actively seeking opportunities to work in a dynamic environment where I can develop my expertise and deliver impactful solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marcin.noga.988) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-noga) 
